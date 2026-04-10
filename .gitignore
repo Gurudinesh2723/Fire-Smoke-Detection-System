@@ -1,0 +1,7 @@
+classification/raw_dataset/
+detection/dataset/
+detection/runs/
+*.pt
+*.mp4
+venv/
+__pycache__/
