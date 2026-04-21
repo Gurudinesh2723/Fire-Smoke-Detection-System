@@ -94,6 +94,8 @@ Fire (Class A) 0.43
 ## 🖼️ Sample Output
 
 ![Output](outputs/sample1.jpg)
+![Output](outputs/sample2.jpg)
+![Output](outputs/sample3.jpg)
 
 ---
 
